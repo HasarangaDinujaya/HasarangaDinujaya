@@ -21,6 +21,13 @@
 <a href="https://www.linkedin.com/in/hasaranga-dinujaya-344b44197/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+<a href="https://web.facebook.com/hasarangadinujaya.dinujaya" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </p>
+
+###
+
+<h2 align="left">Languages and Tools:</h2>
 
 ###
