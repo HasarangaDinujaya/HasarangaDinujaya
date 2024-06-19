@@ -79,3 +79,13 @@
 </div>
 
 ###
+
+<h2 align="left">My Github Stats:</h2>
+
+###
+
+<h2 align="center">
+
+![Hasaranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasarangadinujaya&theme=dark&show_icons=true)
+
+![Hasaranga's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hasarangadinujaya&theme=dark&show_icons=true)</h2>
