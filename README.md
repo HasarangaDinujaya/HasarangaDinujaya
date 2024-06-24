@@ -86,6 +86,8 @@
 
 <h2 align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasarangadinujaya&theme=dark&layout=compact)
+
 ![Hasaranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasarangadinujaya&theme=dark&show_icons=true)
 
 ![Hasaranga's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hasarangadinujaya&theme=dark&show_icons=true)</h2>
