@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, <br/>I'm Hasaranga Abeywickrama </h1>
+<h1 align="center">Hi 👋, I'm Hasaranga Abeywickrama </h1>
 
 ###
 
