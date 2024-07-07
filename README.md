@@ -90,4 +90,4 @@
 
 ![Hasaranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasarangadinujaya&theme=gotham&show_icons=true)
 
-![Hasaranga's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hasarangadinujaya&theme=tokyonight&show_icons=true)</h2>
+![Hasaranga's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hasarangadinujaya&theme=gotham&show_icons=true)</h2>
